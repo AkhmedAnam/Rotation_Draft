@@ -1,0 +1,8 @@
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\RotationDraft\ImageRotationTest\bin\Debug\ImageRotationTest.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\RotationDraft\ImageRotationTest\bin\Debug\ImageRotationTest.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\RotationDraft\ImageRotationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\RotationDraft\ImageRotationTest\bin\Debug\RotationDraft.exe
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\RotationDraft\ImageRotationTest\bin\Debug\RotationDraft.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\RotationDraft\ImageRotationTest\obj\Debug\ImageRotationTest.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\RotationDraft\ImageRotationTest\obj\Debug\ImageRotationTest.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\RotationDraft\ImageRotationTest\obj\Debug\ImageRotationTest.pdb

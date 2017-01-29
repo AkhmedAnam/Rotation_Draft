@@ -1,0 +1,14 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\bin\Debug\RotationDraft.exe.config
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\bin\Debug\RotationDraft.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\bin\Debug\RotationDraft.pdb
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\obj\Debug\RotationDraft.csprojResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\obj\Debug\MainWindow.g.cs
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\obj\Debug\App.g.cs
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\obj\Debug\RotationDraft_MarkupCompile.cache
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\obj\Debug\RotationDraft_MarkupCompile.lref
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\obj\Debug\MainWindow.baml
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\obj\Debug\RotationDraft.g.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\obj\Debug\RotationDraft.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\obj\Debug\RotationDraft.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\obj\Debug\RotationDraft.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\RotationDraft\RotationDraft\obj\Debug\RotationDraft.pdb

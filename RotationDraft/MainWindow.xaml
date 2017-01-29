@@ -1,0 +1,26 @@
+﻿<Window x:Class="RotationDraft.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RotationDraft"
+        mc:Ignorable="d"
+        Title="BMP ROTATION APP" Height="450" Width="625">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="307*"/>
+            <ColumnDefinition Width="310*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="343*"/>
+            <RowDefinition Height="76*"/>
+        </Grid.RowDefinitions>
+        <Image Grid.Row="0" Grid.Column="0" x:Name="sourceImg" Source="test_small.jpg" ToolTip="Исходное изображение"/>
+        <Image Grid.Row="0" Grid.Column="1" x:Name="rotatedImg" ToolTip="Результирующее изображение"/>
+        <Button x:Name="loadImgBtn" Content="Загрузить бмп" HorizontalAlignment="Left" Height="32" Margin="87,23,0,0" Grid.Row="1" VerticalAlignment="Top" Width="123" Click="loadImgBtn_Click" ToolTip="Загрузить исходное растровое изображение" />
+        <Slider x:Name="angleValueSldr" Grid.Column="1" ValueChanged="angleValueSldr_ValueChanged" HorizontalAlignment="Left" Height="23" Minimum="-180" Maximum="180" Margin="10,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="279"/>
+        <TextBox x:Name="textBox" Grid.Column="1" HorizontalAlignment="Left" KeyUp="textBox_KeyUp" Height="33" Margin="111,33,0,0" Grid.Row="1" TextWrapping="Wrap" FontSize="14" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Text="{Binding ElementName=angleValueSldr, Path=Value, UpdateSourceTrigger=LostFocus}" VerticalAlignment="Top" Width="83" ToolTip="Введите угол поворота в градусах и нажмите ОК"/>
+        <TextBlock x:Name="textBlock" Grid.Column="1" HorizontalAlignment="Left" Height="22" Margin="10,38,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Угол поворота:"  VerticalAlignment="Top" Width="96"/>
+        <ProgressBar x:Name="progress" Grid.Column="1" HorizontalAlignment="Left" Height="21" Margin="209,39,0,0" Grid.Row="1" VerticalAlignment="Top" Width="80"/>
+    </Grid>
+</Window>
